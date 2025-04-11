@@ -1,0 +1,37 @@
+# Order Management FAQs
+
+    ## General Questions
+
+    ### How do I place an order?
+    You can place an order by using the "createOrder" tool with your name, items, and shipping address.
+
+    ### How can I check my order status?
+    Use the "viewOrder" tool with your order ID to check the current status of your order.
+
+    ### Can I cancel my order?
+    Yes, you can cancel your order by using the "deleteOrder" tool with your order ID, as long as the order hasn't shipped yet.
+
+    ## Order Processing
+
+    ### How long does order processing take?
+    Order processing typically takes 1-2 business days before shipping.
+
+    ### What payment methods are accepted?
+    We accept credit cards, PayPal, and bank transfers.
+
+    ### Do you offer international shipping?
+    Yes, we ship to most countries worldwide. International shipping may take 7-14 business days.
+
+    ## Returns and Refunds
+
+    ### What is your return policy?
+    Items can be returned within 30 days of delivery for a full refund.
+
+    ### How do I initiate a return?
+    Contact customer service with your order ID to initiate the return process.
+
+    ### How long do refunds take to process?
+    Refunds are typically processed within 5-7 business days after we receive the returned item.
+
+    ### Point of contact for any issues?
+        rajiv.vedavyas@support.com
